@@ -2,6 +2,8 @@
     APPLICATION CONSOLE : Vue d'ensemble du projet [!output PROJECT_NAME]
 ========================================================================
 
+(Ceci est un test)
+
 AppWizard a créé cette application [!output PROJECT_NAME] pour vous.
 
 Ce fichier contient un résumé du contenu de chacun des fichiers qui constituent votre application [!output PROJECT_NAME].
