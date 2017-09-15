@@ -1,4 +1,4 @@
-// Learning.cpp : Définit le point d'entrée pour l'application console.
+// Learning.cpp : Define entry point for console application.
 //
 
 #include "stdafx.h"
